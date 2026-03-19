@@ -1,4 +1,4 @@
-# Hi there 👋, I am Khairul
+# 👋 Hi there, I am Khairul
 
 I am a Master's student at KAIST working in the Control Lab. My work focuses on robotics and artificial intelligence. I really enjoy building systems and making hardware and software work together. 
 
