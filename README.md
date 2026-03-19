@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I am Khairul
 
-<!--
-**KhairulM/KhairulM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's student at KAIST working in the Control Lab. My work focuses on robotics and artificial intelligence. I really enjoy building systems and making hardware and software work together. 
 
-Here are some ideas to get you started:
+### 🔭 About Me
+* I spend a lot of time working with **Ubuntu**, **Raspberry Pi**, and **Jetson Nano** for my projects.
+* I am very interested in startups and entrepreneurship.
+* When I am away from my computer, I like to take photos with film and digital cameras.
+* Currently based in Daejeon, South Korea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tools & Technologies
+* **Systems:** Ubuntu / Linux
+* **Hardware:** Raspberry Pi, Jetson Nano
+* **Fields:** Robotics, VLA, RL, Control Systems
+* **Languages:** Python, C++, Javascript
+
+### 📫 Let's Connect
+* **Email:** khairulmmakirin@gmail.com
+* **LinkedIn:** www.linkedin.com/in/mkhairulm/
